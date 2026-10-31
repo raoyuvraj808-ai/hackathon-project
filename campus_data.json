@@ -1,0 +1,104 @@
+{
+  "is_demo_data": true,
+  "notice": "DEMO DATA: The facilities, support listings, and guidelines below are sample demonstration templates. They illustrate how CampusBuddy organizes institutional information. Replace with your institution's verified records.",
+  "campus_template_name": "Sample Campus Template",
+  "facilities": [
+    {
+      "name": "Central Campus Library",
+      "category": "Academic Support",
+      "is_demo": true,
+      "hours": "Mon - Thu: 8:00 AM - Midnight | Fri: 8:00 AM - 8:00 PM | Weekends: 10:00 AM - 10:00 PM",
+      "services": [
+        "Quiet study zones and individual work carrels",
+        "Group study and project rooms (reserve via student portal)",
+        "Student printing and digital scanning stations",
+        "Research and reference consultation desk"
+      ]
+    },
+    {
+      "name": "Student Dining Commons",
+      "category": "Dining & Nutrition",
+      "is_demo": true,
+      "hours": "Breakfast: 7:30 AM - 10:00 AM | Lunch: 11:30 AM - 2:30 PM | Dinner: 5:00 PM - 8:30 PM",
+      "services": [
+        "Daily rotating hot meal counters",
+        "Vegetarian, vegan, and allergen-labeled options",
+        "Grab-and-go snack, fruit, and beverage area"
+      ]
+    },
+    {
+      "name": "Campus Recreation & Fitness Hub",
+      "category": "Health & Recreation",
+      "is_demo": true,
+      "hours": "Mon - Fri: 6:00 AM - 10:00 PM | Weekends: 8:00 AM - 8:00 PM",
+      "services": [
+        "Cardio zone and free-weight training equipment",
+        "Multi-purpose indoor sports courts",
+        "Drop-in student wellness classes and locker rooms"
+      ]
+    },
+    {
+      "name": "Student Activity & Resource Center",
+      "category": "Student Life",
+      "is_demo": true,
+      "hours": "Mon - Sat: 8:30 AM - 9:00 PM | Sun: 12:00 PM - 6:00 PM",
+      "services": [
+        "Student organization meeting rooms and club boards",
+        "Campus lost-and-found registry desk",
+        "Student lounge and laptop recharge stations"
+      ]
+    }
+  ],
+  "sample_services_directory": [
+    {
+      "service_name": "Campus Safety & Security Office",
+      "is_demo": true,
+      "contact_placeholder": "Call campus safety emergency line or visit main security post",
+      "general_location": "Main Campus Security Pavilion",
+      "coverage": "24/7 Patrol and Safety Escort Support"
+    },
+    {
+      "service_name": "Student Health & Wellness Clinic",
+      "is_demo": true,
+      "contact_placeholder": "Book via student portal or check in during clinic hours",
+      "general_location": "Student Services Center, 1st Floor",
+      "coverage": "Weekdays: 8:30 AM - 5:00 PM"
+    },
+    {
+      "service_name": "Academic Advising & Tutoring Center",
+      "is_demo": true,
+      "contact_placeholder": "Book advisor appointments via academic portal",
+      "general_location": "Library Academic Wing, 2nd Floor",
+      "coverage": "Weekdays: 9:00 AM - 6:00 PM"
+    },
+    {
+      "service_name": "IT Services & Campus Helpdesk",
+      "is_demo": true,
+      "contact_placeholder": "Submit tickets via campus helpdesk or visit support counter",
+      "general_location": "Technology Center, Ground Floor",
+      "coverage": "Weekdays: 8:00 AM - 7:00 PM"
+    }
+  ],
+  "general_survival_faqs": [
+    {
+      "question": "How do I connect to campus Wi-Fi?",
+      "is_demo": true,
+      "answer": "Most universities use an enterprise WPA2 secure network (e.g., [Campus]-Secure). Log in using your student email or ID credentials. For gaming consoles or devices without browsers, register the MAC address through your institution's IT portal."
+    },
+    {
+      "question": "What should I do if I misplace my student ID card?",
+      "is_demo": true,
+      "answer": "Immediately report your card lost through your college student portal or ID services office to freeze card-linked dining funds and building access. Visit your campus ID office or security post for a reissued card."
+    },
+    {
+      "question": "How do course add/drop deadlines work?",
+      "is_demo": true,
+      "answer": "Institutions typically allow students to adjust courses during the first 1-2 weeks of classes without academic penalty. Always verify the exact deadline on your college registrar calendar and consult your advisor before dropping below minimum full-time credit limits."
+    },
+    {
+      "question": "Where can I find free academic tutoring or writing help?",
+      "is_demo": true,
+      "answer": "Check your library or student learning center for peer tutoring, math labs, and writing centers. Most services are included in your student tuition and offer both drop-in hours and appointment bookings."
+    }
+  ]
+}

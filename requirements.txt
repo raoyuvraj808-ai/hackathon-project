@@ -1,0 +1,6 @@
+# Core Framework
+streamlit>=1.30.0
+
+# HTTP requests for interacting with Ollama REST API
+requests>=2.31.0
+
